@@ -5,7 +5,7 @@ BOT for auto regist specialbooster.
 
 Replace link : Line 35 on socialbooster.js
 
-How to run >>
+How to run :
 npm i
 node socialbooster.js
 
