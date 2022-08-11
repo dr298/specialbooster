@@ -3,6 +3,8 @@ For educational purposes only!
 
 BOT for auto regist specialbooster. 
 
+Powered by puppeteer
+
 Replace link : Line 35 on socialbooster.js
 
 How to run :
